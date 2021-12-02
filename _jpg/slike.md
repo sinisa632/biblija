@@ -1,0 +1,1 @@
+ovde su slike.
