@@ -1,0 +1,1 @@
+funkcije razne
