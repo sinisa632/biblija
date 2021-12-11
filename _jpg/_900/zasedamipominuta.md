@@ -6,6 +6,6 @@
 
 ии јј ји рр сс ср си рј сј ри
 
-иа шј ја шј ра шр са шс 
+иа шј ја шј ра шр [[са]] [[шс]] 
 
 https://www.tinkercad.com/things/cRPMgAYq2cM
