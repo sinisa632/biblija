@@ -2,7 +2,9 @@
 
 01 02 03 04 05 06 07 08 09 10
 
-аа [шш](https://github.com/sinisa632/re-nik/) аш мм нн нм на шн ма шм 
+https://github.com/sinisa632/re-nik/wiki/%D0%A8%D0%A8
+
+аа [шш](https://github.com/sinisa632/re-nik/wiki/шш) аш мм нн нм на шн ма шм 
 
 ии јј ји рр сс ср си рј сј ри
 
